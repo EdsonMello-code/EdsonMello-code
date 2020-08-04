@@ -1,4 +1,7 @@
-<img width="auto" src="https://avatars0.githubusercontent.com/u/55053346?s=460&u=6be9a8f02fb03f5144d1812cfd499e8371147801&v=4" id="avatar">
+<p   align="center" height>
+  <img width="auto" src="https://avatars0.githubusercontent.com/u/55053346?s=160&u=6be9a8f02fb03f5144d1812cfd499e8371147801&v=4" 
+>
+</p>
 <style>
    #avatar {
      border-radius: 50%;
