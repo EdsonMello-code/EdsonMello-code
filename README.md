@@ -12,7 +12,6 @@ I'm a FullStack Developer :computer:
 
 [![Linkedin Badge](https://img.shields.io/badge/-EdsonM.Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edson-m-souza-621ab4182/)](https://www.linkedin.com/in/edson-m-souza-621ab4182/) 
 
-| 
 
 [![Gmail Badge](https://img.shields.io/badge/-edsonmelo754@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edsonmelo754@gmail)](mailto:edsonmelo754@gmail)
 
