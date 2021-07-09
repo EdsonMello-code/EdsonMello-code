@@ -6,7 +6,7 @@ I am passionate about solving problems using programming.
 I'm a FullStack Developer :computer:
  <br/> :purple_heart: &nbsp; Seeking to collaborate with projects in Front-end and backend using React and nodeJS
  <br/> :blush: &nbsp; I can help you with CSS Grid Layout, Flexbox, nodeJS
- <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript
+ <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native, Typescript & Flutter/dart
  <br/> 💬  &nbsp; About me: Short technologies, CS: GO games and series on Netflix
  <br/> :email: &nbsp; Contact me: 
 
