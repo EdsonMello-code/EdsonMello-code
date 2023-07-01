@@ -3,7 +3,7 @@
 
 ## Hello people 👋
 I am passionate about solving problems using programming.
-I'm a FullStack Developer :computer:
+I'm a Mobile Developer :computer:
  <br/> :purple_heart: &nbsp; Seeking to collaborate with projects in Mobile
  <br/> :blush: &nbsp; I can help you with Flutter
  <br/> :computer: &nbsp; My stack: Flutter
